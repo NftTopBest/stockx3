@@ -6,7 +6,7 @@ Sell anything in Web3 World with token gating: Gaming, Animation, Audio, Comics 
 
 ## Links
 
-* [Demo Video](#)
+* [Demo Video](https://www.loom.com/share/f6d4aef05efd4b7bb63e37632ee16a9d)
 * [DApp Demo](https://stockx3.nfttop.best/)
 * [DApp Source Code](https://github.com/NftTopBest/stockx3)
 * [Smart Contract Source Code](https://github.com/NftTopBest/stockx3/blob/main/solidity-contract/StockX3.sol)
