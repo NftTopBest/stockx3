@@ -1,4 +1,4 @@
-# Web3 Secret Club
+# StockX3
 
 ## What it does
 
@@ -58,11 +58,11 @@ A simple and easy UX for users to buy/sell products in the Web3 world.
       * now just simply a textarea
       * in the future it will have multiple content type such as: image/music/movie/photo etc...
     * all data pack into json and submit to IPFS via `NFT.Stroage` SDK [source](https://github.com/NftTopBest/stockx3/blob/main/web-app/src/composables/useNFTStorage.ts)
-  * buyer can buy any products by add to cart and batch mint token [source](https://github.com/NftTopBest/stockx3/blob/main/web-app/src/stores/stockx3Store.ts#101)
-    * user can batch mint token via the abi [contract code](https://github.com/NftTopBest/stockx3/blob/main/solidity-contract/StockX3.sol#288)
+  * buyer can buy any products by add to cart and batch mint token [source](https://github.com/NftTopBest/stockx3/blob/main/web-app/src/stores/stockx3Store.ts#L101)
+    * user can batch mint token via the abi [contract code](https://github.com/NftTopBest/stockx3/blob/main/solidity-contract/StockX3.sol#L288)
     * invite friends to join club and get commission rewards
     * inviter get ${inviteCommission}% of the payment
-    * user can decrypted content  [source](https://github.com/NftTopBest/stockx3/blob/main/web-app/src/components/s3/ProductModal.vue#34)
+    * user can decrypted content  [source](https://github.com/NftTopBest/stockx3/blob/main/web-app/src/components/s3/ProductModal.vue#L34)
 
 ## What's next
 
